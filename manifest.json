@@ -1,0 +1,13 @@
+{
+  "name": "Ahmet TOPAK Link Hub",
+  "description": "Custom link hub",
+  "version": "1.0.0",
+  "manifest_version": 3,
+  "icons": {
+    "128": "img/logo.png"
+  },
+  "action": {
+    "default_icon": "img/logo.png",
+    "default_popup": "popup.html"
+  }
+}
